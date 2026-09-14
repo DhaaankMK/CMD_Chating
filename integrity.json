@@ -1,0 +1,20 @@
+{
+  "algoritmo": "sha256",
+  "arquivos": {
+    "admin.py": "46ee516f59d41961ed64c2805d3d2e2f185b07e9dfd8e5c8b1d88688408b3d7f",
+    "core/__init__.py": "47f205f4cb74489d861418bf9c9f669aa516504d7cdd1dfc85bc6093a3b40703",
+    "core/client_core.py": "46d792f5779fcd3741b2ad313e974debb887d2988a2901e59bd595f48cab4d82",
+    "core/database.py": "02fcbf09436190ad8ebe38cf30a621e1062486b961bbf0daa5463be5a4bb2f9c",
+    "core/discovery.py": "ddb0d73422d653ca900edf93620742e36787326ff95aecd4d1493b5c019cf41c",
+    "core/net_utils.py": "6702794ee6e5929d6be9928dea86684d9ca17164f465fdf1b9d5ab23961a20b2",
+    "core/profile.py": "93acd99eaf656a692e6aa3693b05eb56022a9f3f66450c5f9850b397839a0b99",
+    "core/protocol.py": "3b87aa4617b7233a747112a3713c5cedd2961e0a1455dd25964533c7b0ab65fb",
+    "core/quickserver.py": "628ad00e9dbd5de1d81c83b6104316927213c457660e79edaad6cead18ddbe7f",
+    "core/security.py": "c21a9b8b35acee1ba474b25bd59a2fad9236fb52801db9f0e21b806e940373c6",
+    "core/server_config.py": "f519fb3766d1c320b3aaef951e850f7e0461b5452544250d96ef5e6a5109d3be",
+    "core/server_core.py": "7cdf668dea5bf7860e3082b6edd36f535429ffa1c0776f1489a49b6685f4fbe9",
+    "main.py": "97c75febf2f9211a9889fd37d49cd0b42cc2adaca49cb74a590c292f9bbb7efb",
+    "ui/__init__.py": "f77e85558dde4d31a9d6cec6ca050067b0c25b982684cbce36ef54391788d421",
+    "ui/terminal.py": "7a9ffe2439f4146a8d5d8c0ed103c6a4ebbc2fabae147e42c84e2d7d63f3fc9b"
+  }
+}
