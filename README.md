@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+">
   <img src="https://img.shields.io/badge/Rede-LAN-2ea44f?style=for-the-badge" alt="Rede LAN">
   <img src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge" alt="Experimental">
-  <img src="https://img.shields.io/badge/Licença-defina%20uma-555?style=for-the-badge" alt="Licença a definir">
 </p>
 
 > **Aviso:** este projeto é experimental e deve ser usado somente em ambientes controlados. Leia a seção [Segurança, privacidade e limitações](#seguran%C3%A7a-privacidade-e-limita%C3%A7%C3%B5es) antes de colocar o servidor em funcionamento.
